@@ -17,6 +17,9 @@ customer can join 2 times in a row.
 User can add a customer to the sequence.
 User can process the first customer in the sequence.
 
-You should be able to compile and run the program in linux environment
+
+You should be able to compile and run the program in linux environment.
+
 In order to compile to program, enter the command : "make" in the terminal
+
 In order to run the program, enter the command "./bank" in the terminal
